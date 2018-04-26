@@ -1,2 +1,1 @@
-# raspi_article
-Codes of Shell Script Magazine's article
+シェルスクリプトマガジンの記事で紹介した、ラズパイ入門ボード用のコード集です。
