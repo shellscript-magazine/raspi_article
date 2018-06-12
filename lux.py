@@ -15,3 +15,4 @@ while True:
 	# lux()メソッドで現在の照度を得ることが出来る
 	oled.put_string(str(tsl.lux()), 1)
 	time.sleep(1)
+	
