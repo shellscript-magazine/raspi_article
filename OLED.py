@@ -36,3 +36,4 @@ class OLED():
 		self._draw.text((0, line*self._LINE_HEIGHT), str, font=self._font, fill=1)
 		self._disp.image(self._image)
 		self._disp.display()
+		
