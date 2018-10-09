@@ -1,0 +1,11 @@
+begin
+  button = button_a
+  prog = rctest
+  config = button_a
+end
+
+begin
+  button = button_b
+  prog = rctest
+  config = button_b
+end
